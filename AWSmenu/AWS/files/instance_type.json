@@ -1,0 +1,9 @@
+{
+    "InstanceTypes": [
+    	{
+    		"Description" : "free tier",
+    		"Name" : "t2.micro",
+    		"Sr. No." : 1
+    	}
+    ]
+}

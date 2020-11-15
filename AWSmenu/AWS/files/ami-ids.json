@@ -1,0 +1,15 @@
+{
+	"Images" : [
+		{
+			"Linux" : [
+				{
+					"Sr. No." : 1,
+					"Name" : "Amazon Linux 2 free tier",
+					"ami-id" : "ami-0e306788ff2473ccb"
+				}
+			],
+			"Windows" : [
+			]
+		}
+	]
+}
