@@ -1,0 +1,1852 @@
+{
+    "Images": [
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2018-10-24T21:06:52.000Z",
+            "ImageId": "ami-00796998f258969fd",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20181024-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0913f3ef70f9d12cf",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20181024 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20181024-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2018-08-11T03:41:11.000Z",
+            "ImageId": "ami-00b6a8a2bd28daf19",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20180810-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-06c71487dfe312f0f",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20180810 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20180810-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-11-19T18:39:00.000Z",
+            "ImageId": "ami-00ce3f0a3e3a4fb46",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20191116.0-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-09bf8976592e4e284",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20191116.0 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20191116.0-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-05-09T00:58:14.000Z",
+            "ImageId": "ami-00e782930f1c3dbc7",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190508-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0cbad5376eab565b9",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190508 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190508-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2018-10-08T01:22:24.000Z",
+            "ImageId": "ami-0173208fc6cb1b35c",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20181008-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0731b59bcf6990d15",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20181008 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20181008-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-02-12T09:05:43.000Z",
+            "ImageId": "ami-01fffbd2e169cd78a",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200207.1-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0675467544a32cc72",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200207.1 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200207.1-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-12-18T01:33:14.000Z",
+            "ImageId": "ami-0217a85e28e625474",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20191217.0-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0caf909bd30039d39",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20191217.0 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20191217.0-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-03-08T20:43:42.000Z",
+            "ImageId": "ami-0295b1ab1c6e6f31c",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190313-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0e99719ddf6c5bb94",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190313 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190313-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-02-28T03:23:19.000Z",
+            "ImageId": "ami-03103e7ded4c02ef8",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190228-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-002ce4c3e73fed972",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190228 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190228-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-03-07T21:46:43.000Z",
+            "ImageId": "ami-03b5297d565ef30a6",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200304.0-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0a65864f0ac2b05f1",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200304.0 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200304.0-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-10-31T06:01:12.000Z",
+            "ImageId": "ami-040c7ad0a93be494e",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20191024.3-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-065d107f12177a685",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20191024.3 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20191024.3-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-06-19T21:56:41.000Z",
+            "ImageId": "ami-043f9106e7f451340",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190618-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-08ae5b14aa3737e7b",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190618 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190618-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-05-27T06:58:11.000Z",
+            "ImageId": "ami-0447a12f28fddb066",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200520.1-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0098be2da36a1fea3",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200520.1 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200520.1-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-08-30T07:02:26.000Z",
+            "ImageId": "ami-044c7d2b7e4e07da3",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190823.1-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-05b6e99480172f2f3",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190823.1 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190823.1-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-04-07T17:30:36.000Z",
+            "ImageId": "ami-0470e33cd681b2476",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200406.0-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-021c1a065f31a3e06",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200406.0 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200406.0-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-09-12T22:38:03.000Z",
+            "ImageId": "ami-052962f07e6e1c134",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190618-x86_64-gp2-mono-2019.08.14",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "801119661308",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0519fc96438fe4ec9",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI with .NET Core, Mono, and PowerShell Core pre-installed and pre-configured",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190618-x86_64-gp2-mono-2019.08.14",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-07-24T20:39:52.000Z",
+            "ImageId": "ami-0571d68822206714c",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200722.0-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-08d68946ad0e25c23",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200722.0 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200722.0-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-02-28T00:38:29.000Z",
+            "ImageId": "ami-058cbbf4f0f545ce1",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20191217.0-x86_64-gp2-mono-2020.02.27",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "801119661308",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-03370340ffde343b8",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI with .NET Core, Mono, and PowerShell Core pre-installed and pre-configured",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20191217.0-x86_64-gp2-mono-2020.02.27",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-09-22T02:09:31.000Z",
+            "ImageId": "ami-05df0887f246753f3",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200917.0-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-027b63b5a2b94b7c3",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200917.0 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200917.0-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2018-10-24T20:56:47.000Z",
+            "ImageId": "ami-0688537d4903f3e1b",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20181024-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0913f3ef70f9d12cf",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20181024 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20181024-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2018-11-14T09:06:57.000Z",
+            "ImageId": "ami-06bcd1131b2f55803",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20181114-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-00f00b3a3718745e9",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20181114 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20181114-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-12-18T01:31:07.000Z",
+            "ImageId": "ami-06d206ad35402b7dc",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20191217.0-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0caf909bd30039d39",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20191217.0 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20191217.0-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2018-10-08T01:32:46.000Z",
+            "ImageId": "ami-06f2f23b8b95143c4",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20181008-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0731b59bcf6990d15",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20181008 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20181008-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-06-23T06:09:27.000Z",
+            "ImageId": "ami-0732b62d310b80e97",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200617.0-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0e013af9f90f7f779",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200617.0 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200617.0-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-06-11T07:13:10.000Z",
+            "ImageId": "ami-07a81e5dda92b8057",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190612-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0249949196231538d",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190612 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190612-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-09-01T18:12:14.000Z",
+            "ImageId": "ami-07db4adf15d7719d1",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200824.0-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0a69399c6fd2a8846",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200824.0 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200824.0-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-09-01T18:11:36.000Z",
+            "ImageId": "ami-07ffafbe4f758f87b",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200824.0-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0a69399c6fd2a8846",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200824.0 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200824.0-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-02-19T22:38:30.000Z",
+            "ImageId": "ami-086510d086218c5ca",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190218-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0d0cf1b685e196cd0",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190218 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190218-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-03-08T20:44:48.000Z",
+            "ImageId": "ami-0889b8a448de4fc44",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190313-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0e99719ddf6c5bb94",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190313 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190313-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-10-31T06:00:05.000Z",
+            "ImageId": "ami-08a8699a57b628e0b",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20191024.3-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-065d107f12177a685",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20191024.3 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20191024.3-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2018-11-14T08:58:22.000Z",
+            "ImageId": "ami-08b0e86cc971ef5cd",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20181114-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-00f00b3a3718745e9",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20181114 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20181114-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-03-07T21:46:07.000Z",
+            "ImageId": "ami-08c90bce7369e0949",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200304.0-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0a65864f0ac2b05f1",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200304.0 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200304.0-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-09-04T02:27:15.000Z",
+            "ImageId": "ami-0921cffe998f29dc7",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200904.0-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0319652e687cece20",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200904.0 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200904.0-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-01-08T06:47:21.000Z",
+            "ImageId": "ami-09243352e7fc54770",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190110-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-075b30272d35573d4",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190110 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190110-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-01-14T19:17:30.000Z",
+            "ImageId": "ami-0937dcc711d38ef3f",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190115-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0e7ba36a80ba37801",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190115 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190115-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-01-08T06:43:45.000Z",
+            "ImageId": "ami-098343fe9c805b8af",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190110-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-075b30272d35573d4",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190110 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190110-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-09-04T02:27:53.000Z",
+            "ImageId": "ami-09a7bbd08886aafdf",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200904.0-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0319652e687cece20",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200904.0 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200904.0-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-01-14T19:12:52.000Z",
+            "ImageId": "ami-0a1e457fa445726bd",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190115-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0e7ba36a80ba37801",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190115 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190115-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-05-09T00:54:37.000Z",
+            "ImageId": "ami-0a6994bbf532d5707",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190508-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0cbad5376eab565b9",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190508 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190508-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2018-08-11T03:33:36.000Z",
+            "ImageId": "ami-0a6bfb6ec493fec48",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20180810-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-034a5abc16a7e303d",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20180810 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20180810-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2018-09-26T19:28:09.000Z",
+            "ImageId": "ami-0b173ae0d9e71699a",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20180924-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-04fc0281cf49e18c5",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20180924 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20180924-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-06-11T07:15:16.000Z",
+            "ImageId": "ami-0b3046001e1ba9a99",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190612-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0249949196231538d",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190612 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190612-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-02-19T22:42:37.000Z",
+            "ImageId": "ami-0b4e9d7246704847c",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190218-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0d0cf1b685e196cd0",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190218 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190218-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-05-27T06:57:34.000Z",
+            "ImageId": "ami-0b65596e7992917f0",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200520.1-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0098be2da36a1fea3",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200520.1 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200520.1-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-08-30T07:06:03.000Z",
+            "ImageId": "ami-0cb0e70f44e1a4bb5",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190823.1-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-05b6e99480172f2f3",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190823.1 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190823.1-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-02-28T03:18:42.000Z",
+            "ImageId": "ami-0cb7ecbcb6479720a",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190228-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-002ce4c3e73fed972",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190228 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190228-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-11-19T18:40:05.000Z",
+            "ImageId": "ami-0ce933e2ae91880d3",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20191116.0-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-09bf8976592e4e284",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20191116.0 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20191116.0-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2018-09-26T19:06:33.000Z",
+            "ImageId": "ami-0d04d24ded1feab86",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20180924-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-047e8cd2c18cbcf84",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20180924 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20180924-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2019-06-19T21:59:18.000Z",
+            "ImageId": "ami-0d2692b6acea72ee6",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190618-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-08ae5b14aa3737e7b",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20190618 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20190618-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-06-23T06:08:50.000Z",
+            "ImageId": "ami-0d3de07923ebbbccb",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200617.0-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0e013af9f90f7f779",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200617.0 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200617.0-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-02-12T09:07:18.000Z",
+            "ImageId": "ami-0d9462a653c34dab7",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200207.1-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0675467544a32cc72",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200207.1 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200207.1-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-09-22T02:10:09.000Z",
+            "ImageId": "ami-0e306788ff2473ccb",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200917.0-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-027b63b5a2b94b7c3",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200917.0 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200917.0-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-04-07T17:15:25.000Z",
+            "ImageId": "ami-0e3be68053284464d",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200406.0-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-021c1a065f31a3e06",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200406.0 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200406.0-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2020-07-24T20:40:31.000Z",
+            "ImageId": "ami-0ebc1ac48dfd14136",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20200722.0-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-08d68946ad0e25c23",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20200722.0 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20200722.0-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2018-06-22T23:10:24.000Z",
+            "ImageId": "ami-cf82a8a0",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20180622.1-x86_64-ebs",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0d1121544b88b0a59",
+                        "VolumeSize": 8,
+                        "VolumeType": "standard",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20180622.1 x86_64 HVM ebs",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20180622.1-x86_64-ebs",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        },
+        {
+            "Architecture": "x86_64",
+            "CreationDate": "2018-06-22T23:17:37.000Z",
+            "ImageId": "ami-d783a9b8",
+            "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20180622.1-x86_64-gp2",
+            "ImageType": "machine",
+            "Public": true,
+            "OwnerId": "137112412989",
+            "PlatformDetails": "Linux/UNIX",
+            "UsageOperation": "RunInstances",
+            "State": "available",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "/dev/xvda",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "SnapshotId": "snap-0c5a1d46f4f9a18b6",
+                        "VolumeSize": 8,
+                        "VolumeType": "gp2",
+                        "Encrypted": false
+                    }
+                }
+            ],
+            "Description": "Amazon Linux 2 AMI 2.0.20180622.1 x86_64 HVM gp2",
+            "EnaSupport": true,
+            "Hypervisor": "xen",
+            "ImageOwnerAlias": "amazon",
+            "Name": "amzn2-ami-hvm-2.0.20180622.1-x86_64-gp2",
+            "RootDeviceName": "/dev/xvda",
+            "RootDeviceType": "ebs",
+            "SriovNetSupport": "simple",
+            "VirtualizationType": "hvm"
+        }
+    ]
+}
